@@ -1,5 +1,5 @@
 // API client for backend communication
-const API_BASE_URL = 'http://localhost:5000/api';
+import { API_BASE_URL } from './constant';
 
 // Types for API responses
 export interface Poll {

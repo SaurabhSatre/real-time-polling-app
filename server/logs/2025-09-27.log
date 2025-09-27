@@ -1,0 +1,1335 @@
+{
+  "timestamp": "2025-09-27T11:55:37.807Z",
+  "level": "INFO",
+  "message": "New connection: TjVI8vwqWD6UKPA9AAAB"
+}
+{
+  "timestamp": "2025-09-27T11:58:51.171Z",
+  "level": "INFO",
+  "message": "New connection: jZiwWlqALXPTKCh2AAAB"
+}
+{
+  "timestamp": "2025-09-27T11:59:11.692Z",
+  "level": "INFO",
+  "message": "New connection: OTHond4yyzXQZSvlAAAD"
+}
+{
+  "timestamp": "2025-09-27T11:59:42.069Z",
+  "level": "INFO",
+  "message": "New connection: ZYWxg0CJVX1Xp1U7AAAF"
+}
+{
+  "timestamp": "2025-09-27T11:59:56.961Z",
+  "level": "INFO",
+  "message": "New connection: MimZ0OBfg37FmBvgAAAH"
+}
+{
+  "timestamp": "2025-09-27T12:00:19.280Z",
+  "level": "INFO",
+  "message": "User disconnected: MimZ0OBfg37FmBvgAAAH, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:00:21.043Z",
+  "level": "INFO",
+  "message": "New connection: j73Ujv076nFHCLDhAAAJ"
+}
+{
+  "timestamp": "2025-09-27T12:00:29.010Z",
+  "level": "INFO",
+  "message": "User disconnected: jZiwWlqALXPTKCh2AAAB, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:00:29.243Z",
+  "level": "INFO",
+  "message": "New connection: wmlODIqt5ZB2CcJfAAAL"
+}
+{
+  "timestamp": "2025-09-27T12:05:14.197Z",
+  "level": "INFO",
+  "message": "User disconnected: wmlODIqt5ZB2CcJfAAAL, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:05:14.307Z",
+  "level": "INFO",
+  "message": "New connection: WbBOIEDcIfdhwgG3AAAN"
+}
+{
+  "timestamp": "2025-09-27T12:06:33.279Z",
+  "level": "INFO",
+  "message": "User disconnected: WbBOIEDcIfdhwgG3AAAN, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:06:33.515Z",
+  "level": "INFO",
+  "message": "New connection: 1NZg8RijJe0d5PouAAAP"
+}
+{
+  "timestamp": "2025-09-27T12:12:27.717Z",
+  "level": "INFO",
+  "message": "New connection: 5KVApkEFAbz5pJzLAAAB"
+}
+{
+  "timestamp": "2025-09-27T12:13:12.550Z",
+  "level": "INFO",
+  "message": "User disconnected: 5KVApkEFAbz5pJzLAAAB, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:13:13.987Z",
+  "level": "INFO",
+  "message": "New connection: 01n1hIq-AirMn6BEAAAD"
+}
+{
+  "timestamp": "2025-09-27T12:13:36.459Z",
+  "level": "INFO",
+  "message": "New connection: F15ONMWbNQ0XHvguAAAF"
+}
+{
+  "timestamp": "2025-09-27T12:15:46.328Z",
+  "level": "INFO",
+  "message": "User disconnected: 01n1hIq-AirMn6BEAAAD, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:15:49.644Z",
+  "level": "INFO",
+  "message": "New connection: RuAsdAbzsl0DRzuYAAAH"
+}
+{
+  "timestamp": "2025-09-27T12:16:42.659Z",
+  "level": "INFO",
+  "message": "User disconnected: RuAsdAbzsl0DRzuYAAAH, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:16:44.790Z",
+  "level": "INFO",
+  "message": "New connection: znbgRheyieHu48lRAAAJ"
+}
+{
+  "timestamp": "2025-09-27T12:17:04.190Z",
+  "level": "INFO",
+  "message": "User disconnected: F15ONMWbNQ0XHvguAAAF, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:17:06.207Z",
+  "level": "INFO",
+  "message": "New connection: Jn8W-_3eHBarKUoaAAAL"
+}
+{
+  "timestamp": "2025-09-27T12:17:25.224Z",
+  "level": "INFO",
+  "message": "User disconnected: znbgRheyieHu48lRAAAJ, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:17:27.314Z",
+  "level": "INFO",
+  "message": "New connection: H2aokWKiZ8u0YEv3AAAN"
+}
+{
+  "timestamp": "2025-09-27T12:23:00.169Z",
+  "level": "INFO",
+  "message": "New connection: N4qRYsHhCBsF_R7oAAAB"
+}
+{
+  "timestamp": "2025-09-27T12:23:02.159Z",
+  "level": "INFO",
+  "message": "New connection: CuuYVLY7V-Rk5NP5AAAD"
+}
+{
+  "timestamp": "2025-09-27T12:23:02.482Z",
+  "level": "INFO",
+  "message": "User disconnected: N4qRYsHhCBsF_R7oAAAB, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:23:03.350Z",
+  "level": "INFO",
+  "message": "New connection: ulycQ5RsTIWSP2DrAAAF"
+}
+{
+  "timestamp": "2025-09-27T12:23:10.417Z",
+  "level": "INFO",
+  "message": "User disconnected: ulycQ5RsTIWSP2DrAAAF, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:23:16.593Z",
+  "level": "INFO",
+  "message": "New connection: hg8SmumT2sHxnMGmAAAH"
+}
+{
+  "timestamp": "2025-09-27T12:23:44.708Z",
+  "level": "INFO",
+  "message": "User disconnected: CuuYVLY7V-Rk5NP5AAAD, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:23:45.089Z",
+  "level": "INFO",
+  "message": "New connection: BcxywblIRBfcFRsAAAAJ"
+}
+{
+  "timestamp": "2025-09-27T12:24:04.472Z",
+  "level": "INFO",
+  "message": "New connection: 36wMssUgHnbqjSJDAAAL"
+}
+{
+  "timestamp": "2025-09-27T12:26:28.354Z",
+  "level": "INFO",
+  "message": "New connection: mMOM5L-tissTWip1AAAN"
+}
+{
+  "timestamp": "2025-09-27T12:28:07.775Z",
+  "level": "INFO",
+  "message": "User disconnected: BcxywblIRBfcFRsAAAAJ, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:28:09.142Z",
+  "level": "INFO",
+  "message": "New connection: zCR-3eapgm__9D4_AAAP"
+}
+{
+  "timestamp": "2025-09-27T12:29:49.611Z",
+  "level": "INFO",
+  "message": "User disconnected: 36wMssUgHnbqjSJDAAAL, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:29:50.913Z",
+  "level": "INFO",
+  "message": "New connection: mDy-8abdO5GBygK2AAAR"
+}
+{
+  "timestamp": "2025-09-27T12:32:32.892Z",
+  "level": "INFO",
+  "message": "User disconnected: zCR-3eapgm__9D4_AAAP, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:32:39.558Z",
+  "level": "INFO",
+  "message": "User disconnected: mMOM5L-tissTWip1AAAN, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:32:48.692Z",
+  "level": "INFO",
+  "message": "New connection: hbwOXk9LuK3IIz5bAAAT"
+}
+{
+  "timestamp": "2025-09-27T12:33:05.268Z",
+  "level": "INFO",
+  "message": "User disconnected: mDy-8abdO5GBygK2AAAR, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:33:09.936Z",
+  "level": "INFO",
+  "message": "New connection: NWoz9DmWX49csYVJAAAV"
+}
+{
+  "timestamp": "2025-09-27T12:33:22.528Z",
+  "level": "INFO",
+  "message": "New connection: Izz3mjcAh748UynLAAAX"
+}
+{
+  "timestamp": "2025-09-27T12:34:58.411Z",
+  "level": "INFO",
+  "message": "User disconnected: NWoz9DmWX49csYVJAAAV, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:34:59.682Z",
+  "level": "INFO",
+  "message": "New connection: 08U6PAhFYvL4trM9AAAZ"
+}
+{
+  "timestamp": "2025-09-27T12:37:49.762Z",
+  "level": "INFO",
+  "message": "User disconnected: hbwOXk9LuK3IIz5bAAAT, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:38:00.706Z",
+  "level": "INFO",
+  "message": "User disconnected: Izz3mjcAh748UynLAAAX, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:38:08.677Z",
+  "level": "INFO",
+  "message": "User disconnected: 08U6PAhFYvL4trM9AAAZ, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:38:12.132Z",
+  "level": "INFO",
+  "message": "New connection: GUfHwATZN815s-o0AAAb"
+}
+{
+  "timestamp": "2025-09-27T12:38:20.591Z",
+  "level": "INFO",
+  "message": "New connection: OCW_-DAYk6GxxXkoAAAd"
+}
+{
+  "timestamp": "2025-09-27T12:38:53.121Z",
+  "level": "INFO",
+  "message": "New connection: wcXrMh2b4fi8j_oRAAAf"
+}
+{
+  "timestamp": "2025-09-27T12:41:06.634Z",
+  "level": "INFO",
+  "message": "User disconnected: OCW_-DAYk6GxxXkoAAAd, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:42:09.516Z",
+  "level": "INFO",
+  "message": "New connection: 13DCDoO7wUw8-yK6AAAB"
+}
+{
+  "timestamp": "2025-09-27T12:42:12.013Z",
+  "level": "INFO",
+  "message": "New connection: kmmPZv8N9zlEJpIUAAAD"
+}
+{
+  "timestamp": "2025-09-27T12:42:13.179Z",
+  "level": "INFO",
+  "message": "New connection: _XvqBxun19EYjWwBAAAF"
+}
+{
+  "timestamp": "2025-09-27T12:42:17.382Z",
+  "level": "INFO",
+  "message": "New connection: gVHFOHUIuTlnldH8AAAH"
+}
+{
+  "timestamp": "2025-09-27T12:44:09.368Z",
+  "level": "INFO",
+  "message": "User disconnected: gVHFOHUIuTlnldH8AAAH, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:44:10.521Z",
+  "level": "INFO",
+  "message": "New connection: KGOiO8KGHK9txGUBAAAJ"
+}
+{
+  "timestamp": "2025-09-27T12:44:42.795Z",
+  "level": "INFO",
+  "message": "User disconnected: 13DCDoO7wUw8-yK6AAAB, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:44:42.875Z",
+  "level": "INFO",
+  "message": "New connection: UjtytSipPiGqOgC3AAAL"
+}
+{
+  "timestamp": "2025-09-27T12:45:09.552Z",
+  "level": "INFO",
+  "message": "User disconnected: UjtytSipPiGqOgC3AAAL, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:45:09.611Z",
+  "level": "INFO",
+  "message": "New connection: ysupY_JU0_NQ6YE9AAAN"
+}
+{
+  "timestamp": "2025-09-27T12:45:15.073Z",
+  "level": "INFO",
+  "message": "User disconnected: KGOiO8KGHK9txGUBAAAJ, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:45:15.158Z",
+  "level": "INFO",
+  "message": "New connection: tQXT3xsxnOAMQYbQAAAP"
+}
+{
+  "timestamp": "2025-09-27T12:45:43.414Z",
+  "level": "INFO",
+  "message": "User disconnected: tQXT3xsxnOAMQYbQAAAP, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:45:45.170Z",
+  "level": "INFO",
+  "message": "New connection: UKnooafmKkTNmyPJAAAR"
+}
+{
+  "timestamp": "2025-09-27T12:45:47.523Z",
+  "level": "INFO",
+  "message": "User disconnected: _XvqBxun19EYjWwBAAAF, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:45:47.652Z",
+  "level": "INFO",
+  "message": "New connection: _b2tggwAvYlWttuuAAAT"
+}
+{
+  "timestamp": "2025-09-27T12:49:11.351Z",
+  "level": "INFO",
+  "message": "User disconnected: ysupY_JU0_NQ6YE9AAAN, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:49:11.426Z",
+  "level": "INFO",
+  "message": "New connection: ruz6AxqWFaP80JalAAAV"
+}
+{
+  "timestamp": "2025-09-27T12:52:40.292Z",
+  "level": "INFO",
+  "message": "User disconnected: UKnooafmKkTNmyPJAAAR, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:54:23.113Z",
+  "level": "INFO",
+  "message": "User disconnected: ruz6AxqWFaP80JalAAAV, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:54:40.800Z",
+  "level": "INFO",
+  "message": "New connection: a_eat8rIGvApYLN3AAAX"
+}
+{
+  "timestamp": "2025-09-27T12:55:58.306Z",
+  "level": "INFO",
+  "message": "New connection: Y90OsNeBeYFwQ_FRAAAZ"
+}
+{
+  "timestamp": "2025-09-27T12:58:50.970Z",
+  "level": "INFO",
+  "message": "User disconnected: a_eat8rIGvApYLN3AAAX, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:58:52.200Z",
+  "level": "INFO",
+  "message": "New connection: nF2AFvjUv059HNKoAAAb"
+}
+{
+  "timestamp": "2025-09-27T12:59:37.277Z",
+  "level": "INFO",
+  "message": "User disconnected: nF2AFvjUv059HNKoAAAb, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T12:59:39.578Z",
+  "level": "INFO",
+  "message": "New connection: Z7VLLaDVSWuPJhjrAAAd"
+}
+{
+  "timestamp": "2025-09-27T13:02:33.741Z",
+  "level": "INFO",
+  "message": "User disconnected: Z7VLLaDVSWuPJhjrAAAd, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:02:35.451Z",
+  "level": "INFO",
+  "message": "New connection: bfXKKTS_svMsWhmHAAAf"
+}
+{
+  "timestamp": "2025-09-27T13:04:07.458Z",
+  "level": "INFO",
+  "message": "User disconnected: Y90OsNeBeYFwQ_FRAAAZ, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:04:09.167Z",
+  "level": "INFO",
+  "message": "New connection: QlN-1fq8FrL2GpvFAAAh"
+}
+{
+  "timestamp": "2025-09-27T13:04:30.819Z",
+  "level": "INFO",
+  "message": "User disconnected: bfXKKTS_svMsWhmHAAAf, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:04:32.203Z",
+  "level": "INFO",
+  "message": "New connection: SETVdnQ8pGh47gO7AAAj"
+}
+{
+  "timestamp": "2025-09-27T13:08:38.893Z",
+  "level": "INFO",
+  "message": "User disconnected: QlN-1fq8FrL2GpvFAAAh, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:08:40.501Z",
+  "level": "INFO",
+  "message": "New connection: iF6AS8Lznb_dgjypAAAl"
+}
+{
+  "timestamp": "2025-09-27T13:08:51.308Z",
+  "level": "INFO",
+  "message": "User disconnected: SETVdnQ8pGh47gO7AAAj, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:09:03.927Z",
+  "level": "INFO",
+  "message": "New connection: HJslD_lLAx21ir3AAAAn"
+}
+{
+  "timestamp": "2025-09-27T13:14:26.404Z",
+  "level": "INFO",
+  "message": "New connection: Is2zhoXP4jThn-KhAAAB"
+}
+{
+  "timestamp": "2025-09-27T13:14:30.342Z",
+  "level": "INFO",
+  "message": "New connection: 27j_6SOtbNPJ_ZetAAAD"
+}
+{
+  "timestamp": "2025-09-27T13:14:40.347Z",
+  "level": "INFO",
+  "message": "New connection: 2CZg9K47U_CerK5eAAAF"
+}
+{
+  "timestamp": "2025-09-27T13:20:38.520Z",
+  "level": "INFO",
+  "message": "New connection: b4iJ7halCN3-vwD2AAAB"
+}
+{
+  "timestamp": "2025-09-27T13:20:39.358Z",
+  "level": "INFO",
+  "message": "User disconnected: b4iJ7halCN3-vwD2AAAB, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:20:40.196Z",
+  "level": "INFO",
+  "message": "New connection: wGLCNF2jIs4WG-gTAAAD"
+}
+{
+  "timestamp": "2025-09-27T13:20:40.224Z",
+  "level": "INFO",
+  "message": "New connection: VJSI2gMb5XMu7e6YAAAF"
+}
+{
+  "timestamp": "2025-09-27T13:20:42.207Z",
+  "level": "INFO",
+  "message": "New connection: VgbMl8tD4MGoBUyOAAAH"
+}
+{
+  "timestamp": "2025-09-27T13:20:42.927Z",
+  "level": "INFO",
+  "message": "User disconnected: VJSI2gMb5XMu7e6YAAAF, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:20:48.394Z",
+  "level": "INFO",
+  "message": "User disconnected: VgbMl8tD4MGoBUyOAAAH, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:20:48.562Z",
+  "level": "INFO",
+  "message": "New connection: E72OccE14LyH16lKAAAJ"
+}
+{
+  "timestamp": "2025-09-27T13:20:50.108Z",
+  "level": "INFO",
+  "message": "User disconnected: E72OccE14LyH16lKAAAJ, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:21:49.296Z",
+  "level": "INFO",
+  "message": "User disconnected: wGLCNF2jIs4WG-gTAAAD, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:21:49.439Z",
+  "level": "INFO",
+  "message": "New connection: 5m5PWWte3D44hm6oAAAL"
+}
+{
+  "timestamp": "2025-09-27T13:22:02.007Z",
+  "level": "INFO",
+  "message": "User disconnected: 5m5PWWte3D44hm6oAAAL, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:22:09.042Z",
+  "level": "INFO",
+  "message": "New connection: 91rxkitSdvsvFt6OAAAN"
+}
+{
+  "timestamp": "2025-09-27T13:22:14.651Z",
+  "level": "INFO",
+  "message": "New connection: McbeQNhh1pMZnfSTAAAP"
+}
+{
+  "timestamp": "2025-09-27T13:22:32.677Z",
+  "level": "INFO",
+  "message": "New connection: dTzVEbuDgJlUxpwaAAAR"
+}
+{
+  "timestamp": "2025-09-27T13:24:43.867Z",
+  "level": "INFO",
+  "message": "User disconnected: dTzVEbuDgJlUxpwaAAAR, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:24:52.711Z",
+  "level": "INFO",
+  "message": "New connection: pgbe_hZzyXN3Ij8CAAAT"
+}
+{
+  "timestamp": "2025-09-27T13:30:48.748Z",
+  "level": "INFO",
+  "message": "User disconnected: 91rxkitSdvsvFt6OAAAN, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:30:50.631Z",
+  "level": "INFO",
+  "message": "New connection: 7jlv9VMCDse331FNAAAV"
+}
+{
+  "timestamp": "2025-09-27T13:31:20.580Z",
+  "level": "INFO",
+  "message": "User disconnected: McbeQNhh1pMZnfSTAAAP, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:31:21.957Z",
+  "level": "INFO",
+  "message": "New connection: R_CIImDwlDXYWdGlAAAX"
+}
+{
+  "timestamp": "2025-09-27T13:49:05.178Z",
+  "level": "INFO",
+  "message": "New connection: J7xAe-qxxZ7-n0qAAAAC"
+}
+{
+  "timestamp": "2025-09-27T13:49:05.180Z",
+  "level": "INFO",
+  "message": "New connection: -mWAtjPWSSzqJU_OAAAD"
+}
+{
+  "timestamp": "2025-09-27T13:49:06.170Z",
+  "level": "INFO",
+  "message": "New connection: DedKONtDlUsqoPy4AAAF"
+}
+{
+  "timestamp": "2025-09-27T13:49:20.174Z",
+  "level": "INFO",
+  "message": "New connection: tJwGDZDtTZUw0ZkbAAAB"
+}
+{
+  "timestamp": "2025-09-27T13:49:20.178Z",
+  "level": "INFO",
+  "message": "New connection: phRxPU0FX7bm_38WAAAE"
+}
+{
+  "timestamp": "2025-09-27T13:49:20.179Z",
+  "level": "INFO",
+  "message": "New connection: RTHEHBAXbjd640HNAAAF"
+}
+{
+  "timestamp": "2025-09-27T13:49:29.181Z",
+  "level": "INFO",
+  "message": "New connection: ns6MJh3lfqJuAjN-AAAC"
+}
+{
+  "timestamp": "2025-09-27T13:49:29.183Z",
+  "level": "INFO",
+  "message": "New connection: a-Ha3AU_ZbZkj1W5AAAE"
+}
+{
+  "timestamp": "2025-09-27T13:49:29.184Z",
+  "level": "INFO",
+  "message": "New connection: Z2gU6T5BswdePYc4AAAF"
+}
+{
+  "timestamp": "2025-09-27T13:49:40.180Z",
+  "level": "INFO",
+  "message": "New connection: 0W-Xo017WB3VAsfOAAAI"
+}
+{
+  "timestamp": "2025-09-27T13:49:40.181Z",
+  "level": "INFO",
+  "message": "New connection: yGh02_Y46DWlJyoGAAAJ"
+}
+{
+  "timestamp": "2025-09-27T13:49:40.184Z",
+  "level": "INFO",
+  "message": "New connection: pOdDxb0G-WTvit4aAAAL"
+}
+{
+  "timestamp": "2025-09-27T13:50:15.023Z",
+  "level": "INFO",
+  "message": "New connection: qof37WuTsbOgm8g-AAAB"
+}
+{
+  "timestamp": "2025-09-27T13:50:15.026Z",
+  "level": "INFO",
+  "message": "New connection: JqX8D-D_3Zl8QcnTAAAE"
+}
+{
+  "timestamp": "2025-09-27T13:50:15.027Z",
+  "level": "INFO",
+  "message": "New connection: 0lZJVSeQ5INGa5edAAAF"
+}
+{
+  "timestamp": "2025-09-27T13:50:15.163Z",
+  "level": "INFO",
+  "message": "New connection: h3eZPZQNrnT1CwJRAAAI"
+}
+{
+  "timestamp": "2025-09-27T13:50:15.163Z",
+  "level": "INFO",
+  "message": "New connection: O_XXKaYkwQpAxpB3AAAJ"
+}
+{
+  "timestamp": "2025-09-27T13:50:15.177Z",
+  "level": "INFO",
+  "message": "New connection: KyTkcxBNpA-kQhkDAAAL"
+}
+{
+  "timestamp": "2025-09-27T13:50:16.176Z",
+  "level": "INFO",
+  "message": "New connection: NC_6M1illUigvpX4AAAO"
+}
+{
+  "timestamp": "2025-09-27T13:50:16.177Z",
+  "level": "INFO",
+  "message": "New connection: -tpuTLQP6OCdSUJpAAAP"
+}
+{
+  "timestamp": "2025-09-27T13:50:16.190Z",
+  "level": "INFO",
+  "message": "New connection: AsfF1lBDxGbEzKtlAAAR"
+}
+{
+  "timestamp": "2025-09-27T13:50:43.183Z",
+  "level": "INFO",
+  "message": "New connection: IvqTIdRJwWleygZMAAAB"
+}
+{
+  "timestamp": "2025-09-27T13:50:43.189Z",
+  "level": "INFO",
+  "message": "New connection: U9wPV9ya3jEL_K0uAAAF"
+}
+{
+  "timestamp": "2025-09-27T13:50:43.190Z",
+  "level": "INFO",
+  "message": "New connection: AM4fdqrT5ro6og8sAAAG"
+}
+{
+  "timestamp": "2025-09-27T13:50:43.191Z",
+  "level": "INFO",
+  "message": "New connection: RT3Dx1ImqJ8juzwGAAAH"
+}
+{
+  "timestamp": "2025-09-27T13:50:43.204Z",
+  "level": "INFO",
+  "message": "New connection: ieQi2Uq6hdPphNkyAAAL"
+}
+{
+  "timestamp": "2025-09-27T13:50:43.204Z",
+  "level": "INFO",
+  "message": "New connection: btQTAukDwPz8qxIkAAAM"
+}
+{
+  "timestamp": "2025-09-27T13:50:43.205Z",
+  "level": "INFO",
+  "message": "New connection: 1hit3GPD52HE0mdqAAAN"
+}
+{
+  "timestamp": "2025-09-27T13:50:43.219Z",
+  "level": "INFO",
+  "message": "New connection: 4jL9_kKA-NH01QASAAAQ"
+}
+{
+  "timestamp": "2025-09-27T13:50:43.220Z",
+  "level": "INFO",
+  "message": "New connection: 36pUA3gL3z-V0DwaAAAR"
+}
+{
+  "timestamp": "2025-09-27T13:50:45.177Z",
+  "level": "INFO",
+  "message": "New connection: pka3Sdxj3Fa_l60EAAAV"
+}
+{
+  "timestamp": "2025-09-27T13:50:45.178Z",
+  "level": "INFO",
+  "message": "New connection: BWnVGd4MJH05FUoKAAAW"
+}
+{
+  "timestamp": "2025-09-27T13:50:45.178Z",
+  "level": "INFO",
+  "message": "New connection: bXCAvJi9gqbCuIasAAAX"
+}
+{
+  "timestamp": "2025-09-27T13:53:00.711Z",
+  "level": "INFO",
+  "message": "New connection: E_TD_AdBP7hz4SuFAAAC"
+}
+{
+  "timestamp": "2025-09-27T13:53:00.714Z",
+  "level": "INFO",
+  "message": "New connection: 2wY65sylkBX5A9NYAAAD"
+}
+{
+  "timestamp": "2025-09-27T13:53:00.739Z",
+  "level": "INFO",
+  "message": "New connection: ZKBUkhuNBuEO4IlnAAAH"
+}
+{
+  "timestamp": "2025-09-27T13:53:00.741Z",
+  "level": "INFO",
+  "message": "New connection: LYOSs6gDPCu9IG2CAAAI"
+}
+{
+  "timestamp": "2025-09-27T13:53:00.742Z",
+  "level": "INFO",
+  "message": "New connection: M-6u0ZFTKLTrTtwMAAAJ"
+}
+{
+  "timestamp": "2025-09-27T13:53:01.177Z",
+  "level": "INFO",
+  "message": "New connection: T_uPaZw_YzwjhFJOAAAN"
+}
+{
+  "timestamp": "2025-09-27T13:53:01.177Z",
+  "level": "INFO",
+  "message": "New connection: iHwWZMYc2rcCUsDtAAAO"
+}
+{
+  "timestamp": "2025-09-27T13:53:01.178Z",
+  "level": "INFO",
+  "message": "New connection: U-PWVu0ltrp956rmAAAP"
+}
+{
+  "timestamp": "2025-09-27T13:53:01.191Z",
+  "level": "INFO",
+  "message": "New connection: q3HslNLWDmoj7sRwAAAT"
+}
+{
+  "timestamp": "2025-09-27T13:53:01.192Z",
+  "level": "INFO",
+  "message": "New connection: 0naPcxcSP9igeAg7AAAU"
+}
+{
+  "timestamp": "2025-09-27T13:53:01.193Z",
+  "level": "INFO",
+  "message": "New connection: boYZf9HM0mASgrdmAAAV"
+}
+{
+  "timestamp": "2025-09-27T13:53:01.210Z",
+  "level": "INFO",
+  "message": "New connection: JHvnwO0iRNy2Zeq0AAAY"
+}
+{
+  "timestamp": "2025-09-27T13:53:01.211Z",
+  "level": "INFO",
+  "message": "New connection: 2mvd1_fvG596Xt-rAAAZ"
+}
+{
+  "timestamp": "2025-09-27T13:53:01.236Z",
+  "level": "INFO",
+  "message": "New connection: 4HBWphBa6GAramb-AAAc"
+}
+{
+  "timestamp": "2025-09-27T13:53:01.237Z",
+  "level": "INFO",
+  "message": "New connection: at2t_QJUr2SenMQJAAAd"
+}
+{
+  "timestamp": "2025-09-27T13:55:10.213Z",
+  "level": "INFO",
+  "message": "New connection: lpbCqg9OU9bM3if_AAAD"
+}
+{
+  "timestamp": "2025-09-27T13:55:10.220Z",
+  "level": "INFO",
+  "message": "New connection: -OnCCip2gV6ZtJPIAAAE"
+}
+{
+  "timestamp": "2025-09-27T13:55:10.222Z",
+  "level": "INFO",
+  "message": "New connection: 9xMMVn4WbGIkp3QCAAAF"
+}
+{
+  "timestamp": "2025-09-27T13:55:10.231Z",
+  "level": "INFO",
+  "message": "New connection: bBtQADmUNCu7ZlGdAAAJ"
+}
+{
+  "timestamp": "2025-09-27T13:55:10.232Z",
+  "level": "INFO",
+  "message": "New connection: Q1x9vlkFcosUjgeNAAAK"
+}
+{
+  "timestamp": "2025-09-27T13:55:10.237Z",
+  "level": "INFO",
+  "message": "New connection: -nyCaQSAjTDY4vzQAAAL"
+}
+{
+  "timestamp": "2025-09-27T13:55:10.244Z",
+  "level": "INFO",
+  "message": "New connection: wxKN129YkjXcoJH5AAAP"
+}
+{
+  "timestamp": "2025-09-27T13:55:10.245Z",
+  "level": "INFO",
+  "message": "New connection: z7soMseT6AixXY4WAAAQ"
+}
+{
+  "timestamp": "2025-09-27T13:55:10.255Z",
+  "level": "INFO",
+  "message": "New connection: QAvGP2YCgDAG7RXVAAAT"
+}
+{
+  "timestamp": "2025-09-27T13:55:10.257Z",
+  "level": "INFO",
+  "message": "New connection: -6I1e5M_pFZIUHrBAAAU"
+}
+{
+  "timestamp": "2025-09-27T13:55:10.257Z",
+  "level": "INFO",
+  "message": "New connection: JhmcUuW_qwatx3ZYAAAV"
+}
+{
+  "timestamp": "2025-09-27T13:55:10.274Z",
+  "level": "INFO",
+  "message": "New connection: Wdlr6aM1pJe-AwCfAAAX"
+}
+{
+  "timestamp": "2025-09-27T13:55:11.164Z",
+  "level": "INFO",
+  "message": "New connection: PXoMcz8_8MLeUhp2AAAa"
+}
+{
+  "timestamp": "2025-09-27T13:55:11.165Z",
+  "level": "INFO",
+  "message": "New connection: CxbGJZ7MbZBcaEmNAAAb"
+}
+{
+  "timestamp": "2025-09-27T13:55:11.179Z",
+  "level": "INFO",
+  "message": "New connection: UU5jLBztXwF_QvBvAAAd"
+}
+{
+  "timestamp": "2025-09-27T13:55:16.704Z",
+  "level": "INFO",
+  "message": "New connection: Mj80UsD13oN1F-7sAAAD"
+}
+{
+  "timestamp": "2025-09-27T13:55:16.709Z",
+  "level": "INFO",
+  "message": "New connection: fuKsQZ6CUu5GzsQAAAAE"
+}
+{
+  "timestamp": "2025-09-27T13:55:16.710Z",
+  "level": "INFO",
+  "message": "New connection: dNNH0y6ZDshrlfPaAAAF"
+}
+{
+  "timestamp": "2025-09-27T13:55:16.714Z",
+  "level": "INFO",
+  "message": "New connection: wFl3NElLQXFTucqzAAAJ"
+}
+{
+  "timestamp": "2025-09-27T13:55:16.716Z",
+  "level": "INFO",
+  "message": "New connection: ws5pOTrcxclQsrkSAAAK"
+}
+{
+  "timestamp": "2025-09-27T13:55:16.717Z",
+  "level": "INFO",
+  "message": "New connection: T6QZU5V6QU2wPPefAAAL"
+}
+{
+  "timestamp": "2025-09-27T13:55:17.164Z",
+  "level": "INFO",
+  "message": "New connection: pmP39cfodJf3cTEyAAAP"
+}
+{
+  "timestamp": "2025-09-27T13:55:17.166Z",
+  "level": "INFO",
+  "message": "New connection: ZRr6heeTjwwY7AMkAAAQ"
+}
+{
+  "timestamp": "2025-09-27T13:55:17.167Z",
+  "level": "INFO",
+  "message": "New connection: fMXttBvDiQ-1MbEJAAAR"
+}
+{
+  "timestamp": "2025-09-27T13:55:17.177Z",
+  "level": "INFO",
+  "message": "New connection: oENnLLXb237U02fzAAAV"
+}
+{
+  "timestamp": "2025-09-27T13:55:17.178Z",
+  "level": "INFO",
+  "message": "New connection: G3bkWFTmTrBJWSIhAAAW"
+}
+{
+  "timestamp": "2025-09-27T13:55:17.179Z",
+  "level": "INFO",
+  "message": "New connection: TACOSvqJHJY7CTq5AAAX"
+}
+{
+  "timestamp": "2025-09-27T13:55:17.192Z",
+  "level": "INFO",
+  "message": "New connection: 2rX-OaMiIKwfvrk8AAAb"
+}
+{
+  "timestamp": "2025-09-27T13:55:17.193Z",
+  "level": "INFO",
+  "message": "New connection: 06OmRI_UX7YhXKVMAAAc"
+}
+{
+  "timestamp": "2025-09-27T13:55:17.193Z",
+  "level": "INFO",
+  "message": "New connection: zMviPoa1_vQeHC0qAAAd"
+}
+{
+  "timestamp": "2025-09-27T13:55:52.508Z",
+  "level": "INFO",
+  "message": "New connection: bjpVfQ9LEmNlHa8DAAAD"
+}
+{
+  "timestamp": "2025-09-27T13:55:52.513Z",
+  "level": "INFO",
+  "message": "New connection: e5s0nYfwZeySEXypAAAH"
+}
+{
+  "timestamp": "2025-09-27T13:55:52.514Z",
+  "level": "INFO",
+  "message": "New connection: 1WQwW5wubMiEvjLIAAAI"
+}
+{
+  "timestamp": "2025-09-27T13:55:52.516Z",
+  "level": "INFO",
+  "message": "New connection: Mw33jJXCa5aHPsqYAAAJ"
+}
+{
+  "timestamp": "2025-09-27T13:55:52.517Z",
+  "level": "INFO",
+  "message": "New connection: WWsFlFwxdg1vzOF8AAAK"
+}
+{
+  "timestamp": "2025-09-27T13:55:52.519Z",
+  "level": "INFO",
+  "message": "New connection: oaluLFUyOcaY1kq2AAAN"
+}
+{
+  "timestamp": "2025-09-27T13:55:52.521Z",
+  "level": "INFO",
+  "message": "New connection: 0QrgV8IvH38b0avkAAAO"
+}
+{
+  "timestamp": "2025-09-27T13:55:52.522Z",
+  "level": "INFO",
+  "message": "New connection: hTY0mfR8ewSNNmH-AAAP"
+}
+{
+  "timestamp": "2025-09-27T13:55:52.529Z",
+  "level": "INFO",
+  "message": "New connection: tuAEwUTs7v7T1i3cAAAS"
+}
+{
+  "timestamp": "2025-09-27T13:55:52.531Z",
+  "level": "INFO",
+  "message": "New connection: CbaJ0OeqT8Z6BeD6AAAT"
+}
+{
+  "timestamp": "2025-09-27T13:55:53.170Z",
+  "level": "INFO",
+  "message": "New connection: _KKkRKQ_her5JuL-AAAY"
+}
+{
+  "timestamp": "2025-09-27T13:55:53.169Z",
+  "level": "INFO",
+  "message": "New connection: JpRav0oSvOEL7V-BAAAX"
+}
+{
+  "timestamp": "2025-09-27T13:55:53.171Z",
+  "level": "INFO",
+  "message": "New connection: dZgih0ebybV1utvbAAAZ"
+}
+{
+  "timestamp": "2025-09-27T13:55:53.181Z",
+  "level": "INFO",
+  "message": "New connection: DPQF0npZIPW3JVBoAAAb"
+}
+{
+  "timestamp": "2025-09-27T13:55:53.197Z",
+  "level": "INFO",
+  "message": "New connection: NHdHc_TqRdUtqZfkAAAd"
+}
+{
+  "timestamp": "2025-09-27T13:55:57.493Z",
+  "level": "INFO",
+  "message": "New connection: UBMVakOdm57pcSlLAAAC"
+}
+{
+  "timestamp": "2025-09-27T13:55:57.495Z",
+  "level": "INFO",
+  "message": "New connection: 8V7bSyCti91oxFLOAAAD"
+}
+{
+  "timestamp": "2025-09-27T13:55:57.498Z",
+  "level": "INFO",
+  "message": "New connection: F6VhUwEJvaSfOC6BAAAF"
+}
+{
+  "timestamp": "2025-09-27T13:55:58.175Z",
+  "level": "INFO",
+  "message": "New connection: DB4XR5LJxr7EJrHPAAAJ"
+}
+{
+  "timestamp": "2025-09-27T13:55:58.176Z",
+  "level": "INFO",
+  "message": "New connection: 1C-cnm1DPoBlMcX9AAAK"
+}
+{
+  "timestamp": "2025-09-27T13:55:58.177Z",
+  "level": "INFO",
+  "message": "New connection: 2wwEElZmCwdxhdnRAAAL"
+}
+{
+  "timestamp": "2025-09-27T13:55:58.188Z",
+  "level": "INFO",
+  "message": "New connection: 7DtKYe67w5bG7QHnAAAQ"
+}
+{
+  "timestamp": "2025-09-27T13:55:58.187Z",
+  "level": "INFO",
+  "message": "New connection: ZKjiKZ5V3jgQNA3IAAAP"
+}
+{
+  "timestamp": "2025-09-27T13:55:58.190Z",
+  "level": "INFO",
+  "message": "New connection: 3wP64Z3uGKGvFy_FAAAR"
+}
+{
+  "timestamp": "2025-09-27T13:55:58.202Z",
+  "level": "INFO",
+  "message": "New connection: bH7bQr4U1j2RH7PLAAAV"
+}
+{
+  "timestamp": "2025-09-27T13:55:58.203Z",
+  "level": "INFO",
+  "message": "New connection: nKvaEWjy645vXxvIAAAW"
+}
+{
+  "timestamp": "2025-09-27T13:55:58.203Z",
+  "level": "INFO",
+  "message": "New connection: hbCl6Vk9DDuDDooOAAAX"
+}
+{
+  "timestamp": "2025-09-27T13:55:58.216Z",
+  "level": "INFO",
+  "message": "New connection: rcXEbdCE9q7J7j26AAAa"
+}
+{
+  "timestamp": "2025-09-27T13:55:58.216Z",
+  "level": "INFO",
+  "message": "New connection: qkDWmA-A8Jgp1DuqAAAb"
+}
+{
+  "timestamp": "2025-09-27T13:55:58.231Z",
+  "level": "INFO",
+  "message": "New connection: OkPH2CyD65dnQq8uAAAd"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.201Z",
+  "level": "INFO",
+  "message": "New connection: Wod2DntX98WmVj4lAAAD"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.205Z",
+  "level": "INFO",
+  "message": "New connection: 9OTslWntt_xqm0ovAAAF"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.206Z",
+  "level": "INFO",
+  "message": "New connection: -VEyQyvQ2TscDtY1AAAG"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.212Z",
+  "level": "INFO",
+  "message": "New connection: Z2bPYy5fqsv54OQuAAAJ"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.213Z",
+  "level": "INFO",
+  "message": "New connection: l2ZrWmnsJD2OspLhAAAK"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.217Z",
+  "level": "INFO",
+  "message": "New connection: MOYDG6H4dfBCgbB4AAAM"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.217Z",
+  "level": "INFO",
+  "message": "New connection: RCeLWpPN0S_he0JhAAAN"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.234Z",
+  "level": "INFO",
+  "message": "New connection: Ov7uTBa5iZUV4KkGAAAR"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.236Z",
+  "level": "INFO",
+  "message": "New connection: 6Er5zHb6tQGpR3aLAAAS"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.237Z",
+  "level": "INFO",
+  "message": "New connection: iW9LnvgQizSjR4DJAAAT"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.247Z",
+  "level": "INFO",
+  "message": "New connection: sly6EQo4bXMrJv8kAAAX"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.248Z",
+  "level": "INFO",
+  "message": "New connection: GGFTZ62sVyYrIvsUAAAY"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.248Z",
+  "level": "INFO",
+  "message": "New connection: FRRgqpD1xzPgVcFpAAAZ"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.262Z",
+  "level": "INFO",
+  "message": "New connection: DAGUeSd_yuqUT3P0AAAc"
+}
+{
+  "timestamp": "2025-09-27T13:56:19.263Z",
+  "level": "INFO",
+  "message": "New connection: WtIb3oqV1S-dX-_CAAAd"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.279Z",
+  "level": "INFO",
+  "message": "User disconnected: DAGUeSd_yuqUT3P0AAAc, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.286Z",
+  "level": "INFO",
+  "message": "User disconnected: Ov7uTBa5iZUV4KkGAAAR, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.283Z",
+  "level": "INFO",
+  "message": "User disconnected: sly6EQo4bXMrJv8kAAAX, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.288Z",
+  "level": "INFO",
+  "message": "User disconnected: MOYDG6H4dfBCgbB4AAAM, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.289Z",
+  "level": "INFO",
+  "message": "User disconnected: 9OTslWntt_xqm0ovAAAF, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.341Z",
+  "level": "INFO",
+  "message": "User disconnected: WtIb3oqV1S-dX-_CAAAd, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.347Z",
+  "level": "INFO",
+  "message": "User disconnected: GGFTZ62sVyYrIvsUAAAY, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.348Z",
+  "level": "INFO",
+  "message": "User disconnected: 6Er5zHb6tQGpR3aLAAAS, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.349Z",
+  "level": "INFO",
+  "message": "User disconnected: l2ZrWmnsJD2OspLhAAAK, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.350Z",
+  "level": "INFO",
+  "message": "User disconnected: -VEyQyvQ2TscDtY1AAAG, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.449Z",
+  "level": "INFO",
+  "message": "User disconnected: Z2bPYy5fqsv54OQuAAAJ, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.453Z",
+  "level": "INFO",
+  "message": "User disconnected: iW9LnvgQizSjR4DJAAAT, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.455Z",
+  "level": "INFO",
+  "message": "User disconnected: Wod2DntX98WmVj4lAAAD, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.455Z",
+  "level": "INFO",
+  "message": "User disconnected: RCeLWpPN0S_he0JhAAAN, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.456Z",
+  "level": "INFO",
+  "message": "User disconnected: FRRgqpD1xzPgVcFpAAAZ, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T13:57:53.976Z",
+  "level": "INFO",
+  "message": "New connection: WjPNc_887Ux8qByQAAAh"
+}
+{
+  "timestamp": "2025-09-27T13:57:54.012Z",
+  "level": "INFO",
+  "message": "New connection: eQm33J9AOwgyyRZQAAAi"
+}
+{
+  "timestamp": "2025-09-27T13:57:54.103Z",
+  "level": "INFO",
+  "message": "New connection: VYIt_Rfr_3Q5-58PAAAj"
+}
+{
+  "timestamp": "2025-09-27T14:00:13.177Z",
+  "level": "INFO",
+  "message": "New connection: yQd6iQgcsJqvkW5IAAAB"
+}
+{
+  "timestamp": "2025-09-27T14:00:13.182Z",
+  "level": "INFO",
+  "message": "New connection: ckR4Q3yLcYAqXpBNAAAD"
+}
+{
+  "timestamp": "2025-09-27T14:00:13.306Z",
+  "level": "INFO",
+  "message": "New connection: lN6Z50jNUh7yr96DAAAF"
+}
+{
+  "timestamp": "2025-09-27T14:00:13.345Z",
+  "level": "INFO",
+  "message": "User disconnected: lN6Z50jNUh7yr96DAAAF, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T14:00:13.927Z",
+  "level": "INFO",
+  "message": "User disconnected: ckR4Q3yLcYAqXpBNAAAD, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T14:14:54.586Z",
+  "level": "INFO",
+  "message": "New connection: 6omOBwhk2Bua58ChAAAB"
+}
+{
+  "timestamp": "2025-09-27T14:15:18.928Z",
+  "level": "INFO",
+  "message": "New connection: NqBt3Ev7QeBFQMHBAAAD"
+}
+{
+  "timestamp": "2025-09-27T14:19:11.182Z",
+  "level": "INFO",
+  "message": "New connection: fUpFs07b5fWA6X0pAAAB"
+}
+{
+  "timestamp": "2025-09-27T14:19:11.200Z",
+  "level": "INFO",
+  "message": "New connection: Ymz8bBkI5rQlYERNAAAD"
+}
+{
+  "timestamp": "2025-09-27T14:39:21.599Z",
+  "level": "INFO",
+  "message": "New connection: yTMEis48jcRNAxtVAAAB"
+}
+{
+  "timestamp": "2025-09-27T14:39:21.606Z",
+  "level": "INFO",
+  "message": "New connection: omxUADjXAJw9xluxAAAD"
+}
+{
+  "timestamp": "2025-09-27T14:39:34.230Z",
+  "level": "INFO",
+  "message": "New connection: rccM4B8X6ZGpCJN_AAAF"
+}

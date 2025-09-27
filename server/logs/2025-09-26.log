@@ -1,0 +1,780 @@
+{
+  "timestamp": "2025-09-26T14:40:03.794Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T14:40:03.795Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T14:40:03.795Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T14:41:19.033Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T14:41:19.035Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T14:41:19.035Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T14:41:55.402Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T14:41:55.403Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T14:41:55.403Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T14:42:01.624Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T14:42:01.625Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T14:42:01.626Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T14:42:05.010Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T14:42:05.011Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T14:42:05.011Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T14:42:10.793Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T14:42:10.794Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T14:42:10.794Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T14:42:16.476Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T14:42:16.477Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T14:42:16.477Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T14:44:55.304Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:44:55 +0000] \"POST /api/users HTTP/1.1\" 404 72 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:47:06.542Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:47:06 +0000] \"POST /health HTTP/1.1\" 404 69 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:47:08.720Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:47:08 +0000] \"POST /health HTTP/1.1\" 404 69 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:47:15.071Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:47:15 +0000] \"POST /health HTTP/1.1\" 404 69 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:47:18.385Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:47:18 +0000] \"GET /health HTTP/1.1\" 200 142 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:48:19.808Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:48:19 +0000] \"GET /api/polls HTTP/1.1\" 404 72 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:48:50.824Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T14:48:50.825Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T14:48:50.825Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T14:49:27.640Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:49:27 +0000] \"POST /api/polls HTTP/1.1\" 201 752 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:50:28.154Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:50:28 +0000] \"POST /api/polls HTTP/1.1\" 400 118 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:50:55.024Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:50:55 +0000] \"GET /api/polls/current HTTP/1.1\" 200 714 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:51:32.395Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:51:32 +0000] \"POST /api/students HTTP/1.1\" 201 503 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:52:08.568Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:52:08 +0000] \"POST /api/students HTTP/1.1\" 201 515 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:52:18.121Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:52:18 +0000] \"POST /api/students HTTP/1.1\" 201 505 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:52:26.943Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:52:26 +0000] \"POST /api/students HTTP/1.1\" 201 501 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:52:36.980Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:52:36 +0000] \"POST /api/students HTTP/1.1\" 201 506 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:52:46.548Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:52:46 +0000] \"GET /api/students HTTP/1.1\" 200 2245 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:53:08.394Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:53:08 +0000] \"POST /api/students HTTP/1.1\" 400 61 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:54:06.275Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:54:06 +0000] \"POST /api/answers HTTP/1.1\" 500 162 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:55:39.451Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T14:55:39.452Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T14:55:39.452Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T14:58:11.851Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:58:11 +0000] \"POST /api/answers HTTP/1.1\" 201 1122 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T14:59:48.078Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:14:59:48 +0000] \"GET /api/polls/68d6a7f7756240c009f3efe1/results HTTP/1.1\" 404 105 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T15:00:51.858Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:15:00:51 +0000] \"GET /api/polls/:68d6a7f7756240c009f3efe1/results HTTP/1.1\" 404 106 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T15:01:12.320Z",
+  "level": "INFO",
+  "message": "::1 - - [26/Sep/2025:15:01:12 +0000] \"GET /api/polls/68d6a7f7756240c009f3efe1/results HTTP/1.1\" 404 105 \"-\" \"PostmanRuntime/7.46.1\""
+}
+{
+  "timestamp": "2025-09-26T15:01:56.891Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T15:01:56.892Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T15:01:56.892Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T15:02:35.981Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T15:02:35.983Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T15:02:35.982Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T15:02:37.642Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T15:02:37.643Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T15:02:37.643Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T15:02:47.493Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T15:02:47.495Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T15:02:47.495Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T15:03:04.425Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T15:03:04.426Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T15:03:04.426Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T15:03:15.916Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T15:03:15.917Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T15:03:15.918Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T15:03:26.643Z",
+  "level": "INFO",
+  "message": "Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-26T15:03:26.644Z",
+  "level": "INFO",
+  "message": "Environment: development"
+}
+{
+  "timestamp": "2025-09-26T15:03:26.644Z",
+  "level": "INFO",
+  "message": "Health check: http://localhost:5000/health"
+}
+{
+  "timestamp": "2025-09-26T17:21:16.214Z",
+  "level": "INFO",
+  "message": "New connection: 0n5ZtG3cUoZA972BAAAB"
+}
+{
+  "timestamp": "2025-09-26T17:21:16.217Z",
+  "level": "INFO",
+  "message": "New connection: vRdNfrv0p7MSw7iGAAAD"
+}
+{
+  "timestamp": "2025-09-26T17:21:16.259Z",
+  "level": "INFO",
+  "message": "New connection: tn2gBVL3CQ-bYqNqAAAF"
+}
+{
+  "timestamp": "2025-09-26T17:21:16.849Z",
+  "level": "INFO",
+  "message": "New connection: 55qLTybhr0WDpGz_AAAH"
+}
+{
+  "timestamp": "2025-09-26T17:21:16.895Z",
+  "level": "INFO",
+  "message": "New connection: m0nBEtNj0212G-jiAAAJ"
+}
+{
+  "timestamp": "2025-09-26T17:21:17.194Z",
+  "level": "INFO",
+  "message": "New connection: 5WtR4CsY6zxMYnDJAAAL"
+}
+{
+  "timestamp": "2025-09-26T17:21:17.209Z",
+  "level": "INFO",
+  "message": "New connection: 4nksAlH0lqnHHIThAAAN"
+}
+{
+  "timestamp": "2025-09-26T17:21:17.369Z",
+  "level": "INFO",
+  "message": "New connection: BGrMaQXIiBQOHkO8AAAQ"
+}
+{
+  "timestamp": "2025-09-26T17:21:17.369Z",
+  "level": "INFO",
+  "message": "New connection: I1R8ptFyNCG6JMDVAAAR"
+}
+{
+  "timestamp": "2025-09-26T17:21:17.414Z",
+  "level": "INFO",
+  "message": "New connection: euIm6Ep0N3p3S0j7AAAT"
+}
+{
+  "timestamp": "2025-09-26T17:21:17.908Z",
+  "level": "INFO",
+  "message": "New connection: ESrcnSbWS9uxn5VbAAAV"
+}
+{
+  "timestamp": "2025-09-26T17:21:17.955Z",
+  "level": "INFO",
+  "message": "New connection: BHpdq_CBS61QhIYjAAAX"
+}
+{
+  "timestamp": "2025-09-26T17:21:18.515Z",
+  "level": "INFO",
+  "message": "New connection: AHEwl2R5v1D0gS7sAAAZ"
+}
+{
+  "timestamp": "2025-09-26T17:21:18.546Z",
+  "level": "INFO",
+  "message": "New connection: ZsrhS4DvxSdIR1-1AAAb"
+}
+{
+  "timestamp": "2025-09-26T17:21:19.677Z",
+  "level": "INFO",
+  "message": "New connection: rVD1L6siw6POf37KAAAd"
+}
+{
+  "timestamp": "2025-09-26T17:21:19.771Z",
+  "level": "INFO",
+  "message": "New connection: p8jZCdg97nRYqDmSAAAf"
+}
+{
+  "timestamp": "2025-09-26T17:21:20.084Z",
+  "level": "INFO",
+  "message": "New connection: z7h9yNUFE9nCTkTLAAAh"
+}
+{
+  "timestamp": "2025-09-26T17:21:20.365Z",
+  "level": "INFO",
+  "message": "New connection: TopTwIfnAkorG7JwAAAj"
+}
+{
+  "timestamp": "2025-09-26T17:21:20.786Z",
+  "level": "INFO",
+  "message": "New connection: qSL1A5CNjTn2wsiHAAAl"
+}
+{
+  "timestamp": "2025-09-26T17:21:20.833Z",
+  "level": "INFO",
+  "message": "New connection: yxFDt830Jz7BViJ1AAAn"
+}
+{
+  "timestamp": "2025-09-26T17:21:21.192Z",
+  "level": "INFO",
+  "message": "New connection: JYvG8X7rrLCgz6EtAAAp"
+}
+{
+  "timestamp": "2025-09-26T17:21:21.655Z",
+  "level": "INFO",
+  "message": "New connection: lchVhLFfW4yvIS5MAAAr"
+}
+{
+  "timestamp": "2025-09-26T17:21:22.402Z",
+  "level": "INFO",
+  "message": "New connection: SHuBzpRytM_NeofpAAAt"
+}
+{
+  "timestamp": "2025-09-26T17:21:22.849Z",
+  "level": "INFO",
+  "message": "New connection: F4JU5yH9Qa9_GWV6AAAv"
+}
+{
+  "timestamp": "2025-09-26T17:21:23.328Z",
+  "level": "INFO",
+  "message": "New connection: -rU2Qk-G8X6naeP4AAAx"
+}
+{
+  "timestamp": "2025-09-26T17:22:13.502Z",
+  "level": "INFO",
+  "message": "New connection: EjqHI8iKttG0jZjbAAAB"
+}
+{
+  "timestamp": "2025-09-26T17:22:14.165Z",
+  "level": "INFO",
+  "message": "New connection: C0F5HQGEGqN_tjo_AAAE"
+}
+{
+  "timestamp": "2025-09-26T17:22:14.166Z",
+  "level": "INFO",
+  "message": "New connection: 7Wl7axIQEjgrtJQeAAAF"
+}
+{
+  "timestamp": "2025-09-26T17:22:14.179Z",
+  "level": "INFO",
+  "message": "New connection: _vzPQzC83qdO9vKOAAAI"
+}
+{
+  "timestamp": "2025-09-26T17:22:14.180Z",
+  "level": "INFO",
+  "message": "New connection: JGAlacw-cnzUK9_iAAAJ"
+}
+{
+  "timestamp": "2025-09-26T17:22:14.194Z",
+  "level": "INFO",
+  "message": "New connection: Ck6jMYnBmZHvIR5IAAAL"
+}
+{
+  "timestamp": "2025-09-26T17:22:14.209Z",
+  "level": "INFO",
+  "message": "New connection: uVjnjJbJ_0CeMxApAAAN"
+}
+{
+  "timestamp": "2025-09-26T17:22:14.225Z",
+  "level": "INFO",
+  "message": "New connection: tFJRjxdy3adApUxDAAAP"
+}
+{
+  "timestamp": "2025-09-26T17:22:14.241Z",
+  "level": "INFO",
+  "message": "New connection: RyJbYkrM2x7Eu3SdAAAR"
+}
+{
+  "timestamp": "2025-09-26T17:22:14.273Z",
+  "level": "INFO",
+  "message": "New connection: Xvh4K6th_m8tmqrgAAAT"
+}
+{
+  "timestamp": "2025-09-26T17:22:14.303Z",
+  "level": "INFO",
+  "message": "New connection: wARY-yRdsnryRsoCAAAV"
+}
+{
+  "timestamp": "2025-09-26T17:22:15.082Z",
+  "level": "INFO",
+  "message": "New connection: DoE0i8BcUYZAerWVAAAX"
+}
+{
+  "timestamp": "2025-09-26T17:22:15.190Z",
+  "level": "INFO",
+  "message": "New connection: zMaMISMxaFdkaxZVAAAZ"
+}
+{
+  "timestamp": "2025-09-26T17:22:15.205Z",
+  "level": "INFO",
+  "message": "New connection: aY5pq5tToAVEHty6AAAb"
+}
+{
+  "timestamp": "2025-09-26T17:22:15.221Z",
+  "level": "INFO",
+  "message": "New connection: ynhHTI6SmkDS4HQAAAAd"
+}
+{
+  "timestamp": "2025-09-26T17:22:15.422Z",
+  "level": "INFO",
+  "message": "New connection: Sav3KEgeWeWqMdRVAAAf"
+}
+{
+  "timestamp": "2025-09-26T17:22:15.484Z",
+  "level": "INFO",
+  "message": "New connection: gZnVicSoXkXp_11RAAAh"
+}
+{
+  "timestamp": "2025-09-26T17:22:15.796Z",
+  "level": "INFO",
+  "message": "New connection: FqDIYZRt32mI6ibHAAAj"
+}
+{
+  "timestamp": "2025-09-26T17:22:16.185Z",
+  "level": "INFO",
+  "message": "New connection: LUOU1K8BZLFIVk7ZAAAl"
+}
+{
+  "timestamp": "2025-09-26T17:22:16.308Z",
+  "level": "INFO",
+  "message": "New connection: JbQryTUqJVwAcyx-AAAn"
+}
+{
+  "timestamp": "2025-09-26T17:22:16.354Z",
+  "level": "INFO",
+  "message": "New connection: zfSDMWBj7X6zv7PiAAAp"
+}
+{
+  "timestamp": "2025-09-26T17:22:16.587Z",
+  "level": "INFO",
+  "message": "New connection: zYr_qSWkRl6w1DLhAAAr"
+}
+{
+  "timestamp": "2025-09-26T17:22:16.918Z",
+  "level": "INFO",
+  "message": "New connection: ncKzd4Lg23CeFMUwAAAt"
+}
+{
+  "timestamp": "2025-09-26T17:22:17.226Z",
+  "level": "INFO",
+  "message": "New connection: yUQqP9mUuAoR1s3lAAAv"
+}
+{
+  "timestamp": "2025-09-26T17:22:17.678Z",
+  "level": "INFO",
+  "message": "New connection: k-6FFGvYY5kqI06PAAAx"
+}
+{
+  "timestamp": "2025-09-26T17:22:18.602Z",
+  "level": "INFO",
+  "message": "New connection: xMKryORQxoWiYfaYAAAz"
+}
+{
+  "timestamp": "2025-09-26T17:23:41.947Z",
+  "level": "INFO",
+  "message": "User disconnected: _vzPQzC83qdO9vKOAAAI, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:23:41.948Z",
+  "level": "INFO",
+  "message": "User disconnected: C0F5HQGEGqN_tjo_AAAE, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:23:42.121Z",
+  "level": "INFO",
+  "message": "New connection: gFSbT879yhB1n1wrAAA1"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.156Z",
+  "level": "INFO",
+  "message": "User disconnected: aY5pq5tToAVEHty6AAAb, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.159Z",
+  "level": "INFO",
+  "message": "User disconnected: tFJRjxdy3adApUxDAAAP, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.160Z",
+  "level": "INFO",
+  "message": "User disconnected: uVjnjJbJ_0CeMxApAAAN, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.160Z",
+  "level": "INFO",
+  "message": "User disconnected: Ck6jMYnBmZHvIR5IAAAL, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.160Z",
+  "level": "INFO",
+  "message": "User disconnected: JGAlacw-cnzUK9_iAAAJ, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.162Z",
+  "level": "INFO",
+  "message": "User disconnected: gZnVicSoXkXp_11RAAAh, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.161Z",
+  "level": "INFO",
+  "message": "User disconnected: 7Wl7axIQEjgrtJQeAAAF, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.161Z",
+  "level": "INFO",
+  "message": "User disconnected: EjqHI8iKttG0jZjbAAAB, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.164Z",
+  "level": "INFO",
+  "message": "User disconnected: ynhHTI6SmkDS4HQAAAAd, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.165Z",
+  "level": "INFO",
+  "message": "User disconnected: FqDIYZRt32mI6ibHAAAj, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.165Z",
+  "level": "INFO",
+  "message": "User disconnected: zMaMISMxaFdkaxZVAAAZ, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.165Z",
+  "level": "INFO",
+  "message": "User disconnected: DoE0i8BcUYZAerWVAAAX, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.166Z",
+  "level": "INFO",
+  "message": "User disconnected: wARY-yRdsnryRsoCAAAV, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.166Z",
+  "level": "INFO",
+  "message": "User disconnected: RyJbYkrM2x7Eu3SdAAAR, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.166Z",
+  "level": "INFO",
+  "message": "User disconnected: Xvh4K6th_m8tmqrgAAAT, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:24:36.398Z",
+  "level": "INFO",
+  "message": "New connection: WW8bdw7WSVnfhe04AAA3"
+}
+{
+  "timestamp": "2025-09-26T17:26:13.078Z",
+  "level": "INFO",
+  "message": "User disconnected: WW8bdw7WSVnfhe04AAA3, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:26:13.321Z",
+  "level": "INFO",
+  "message": "New connection: uf-KYCFHYbtUWOnNAAA5"
+}
+{
+  "timestamp": "2025-09-26T17:33:23.457Z",
+  "level": "INFO",
+  "message": "User disconnected: uf-KYCFHYbtUWOnNAAA5, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:33:27.191Z",
+  "level": "INFO",
+  "message": "New connection: LXXz--9pyf1Hz7l3AAA7"
+}
+{
+  "timestamp": "2025-09-26T17:36:30.712Z",
+  "level": "INFO",
+  "message": "User disconnected: LXXz--9pyf1Hz7l3AAA7, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T17:36:39.419Z",
+  "level": "INFO",
+  "message": "New connection: iLrHggV9OGFowua_AAA9"
+}
+{
+  "timestamp": "2025-09-26T18:19:35.547Z",
+  "level": "INFO",
+  "message": "User disconnected: iLrHggV9OGFowua_AAA9, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T18:19:38.350Z",
+  "level": "INFO",
+  "message": "User disconnected: gFSbT879yhB1n1wrAAA1, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T18:19:38.368Z",
+  "level": "INFO",
+  "message": "User disconnected: zfSDMWBj7X6zv7PiAAAp, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T18:19:38.369Z",
+  "level": "INFO",
+  "message": "User disconnected: zYr_qSWkRl6w1DLhAAAr, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T18:19:38.369Z",
+  "level": "INFO",
+  "message": "User disconnected: JbQryTUqJVwAcyx-AAAn, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T18:19:38.370Z",
+  "level": "INFO",
+  "message": "User disconnected: LUOU1K8BZLFIVk7ZAAAl, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T18:19:38.370Z",
+  "level": "INFO",
+  "message": "User disconnected: xMKryORQxoWiYfaYAAAz, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T18:19:38.372Z",
+  "level": "INFO",
+  "message": "User disconnected: ncKzd4Lg23CeFMUwAAAt, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T18:19:38.372Z",
+  "level": "INFO",
+  "message": "User disconnected: k-6FFGvYY5kqI06PAAAx, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T18:19:38.372Z",
+  "level": "INFO",
+  "message": "User disconnected: Sav3KEgeWeWqMdRVAAAf, reason: transport close"
+}
+{
+  "timestamp": "2025-09-26T18:19:38.373Z",
+  "level": "INFO",
+  "message": "User disconnected: yUQqP9mUuAoR1s3lAAAv, reason: transport close"
+}

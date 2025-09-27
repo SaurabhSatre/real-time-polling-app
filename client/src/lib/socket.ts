@@ -1,5 +1,6 @@
 // Socket.io client for real-time communication
 import { io, Socket } from 'socket.io-client';
+import { SOCKET_URL } from './constant';
 
 class SocketManager {
   private socket: Socket | null = null;
@@ -10,7 +11,7 @@ class SocketManager {
       return this.socket;
     }
 
-    this.socket = io('http://localhost:5000', {
+    this.socket = io(SOCKET_URL, {
       transports: ['websocket', 'polling'],
       timeout: 20000,
     });
