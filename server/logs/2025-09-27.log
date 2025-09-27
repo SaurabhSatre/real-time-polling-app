@@ -1333,3 +1333,18 @@
   "level": "INFO",
   "message": "New connection: rccM4B8X6ZGpCJN_AAAF"
 }
+{
+  "timestamp": "2025-09-27T14:41:50.742Z",
+  "level": "INFO",
+  "message": "User disconnected: omxUADjXAJw9xluxAAAD, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T14:41:51.060Z",
+  "level": "INFO",
+  "message": "User disconnected: yTMEis48jcRNAxtVAAAB, reason: transport close"
+}
+{
+  "timestamp": "2025-09-27T14:41:52.531Z",
+  "level": "INFO",
+  "message": "User disconnected: rccM4B8X6ZGpCJN_AAAF, reason: transport close"
+}
